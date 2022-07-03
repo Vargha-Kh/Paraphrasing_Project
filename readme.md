@@ -25,7 +25,7 @@ The amount of diversity in words depends on synonyms ranges for output result. e
 <br>
 
 ## This project is closed source and i cant share the datasets and the used models but you can only use it using this domain:
-http://new.keybot.tools/
+http://keybot.tools/
 
 <br>
 
